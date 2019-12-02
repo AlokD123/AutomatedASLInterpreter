@@ -7,4 +7,4 @@ In this project, we have used machine learning to develop a gesture recognition 
 
 ## Details
 
-Please refer to the project report and notebook for details.
+Please refer to the project report and notebook for details. Video: https://www.youtube.com/watch?v=Ezi5FoiQ2ho
